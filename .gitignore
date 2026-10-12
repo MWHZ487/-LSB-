@@ -1,0 +1,22 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Editor and OS files
+.vscode/
+.idea/
+*.tmp
+Thumbs.db
+desktop.ini
+
+# Local logs and scratch files
+*.log
+scratch/
+
+# Secrets and local configuration
+.env
+*.pem
+*.key
